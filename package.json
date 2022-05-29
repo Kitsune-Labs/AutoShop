@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node Autoshop.js"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^1.35.2",
+    "dotenv": "^16.0.1"
+  }
+}
